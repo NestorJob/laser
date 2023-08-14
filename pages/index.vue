@@ -6,7 +6,7 @@ useHead({
 </script>
 <template>
   <Container class="z-10">
-    <img id="lsm" class="opacity-90" src="img/main.jpg" />
+    <img id="lsm" class="opacity-90" src="/img/main.jpg" />
     <div class="px-xs py-md text-center flex items-center flex-col">
       <div class="max-w-[750px]">
         <h1 class="text-h1">
