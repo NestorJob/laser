@@ -92,8 +92,8 @@ useHead({
         </div>
       </div>
     </div>
-    <div id="contact" class="px-md py-md font-bold space-y-xs relative">
-      <div class="w-full">
+    <div id="contact" class="px-md py-md font-bold relative">
+      <div class="w-full space-y-xs">
         <p class="text-body1">ESTAMOS EMOCIONADOS POR ESCUCHARTE!</p>
         <p class="text-h2 text-error-500">Contactanos</p>
         <p class="text-subtitle3 max-w-sm sm:max-w-lg">
